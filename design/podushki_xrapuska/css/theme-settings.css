@@ -1,0 +1,22 @@
+/**
+* Файл стилей для настройки шаблона.
+* Регистрировать этот файл для подключения в шаблоне не нужно
+*/
+
+:root {
+	--okay-button-color: #6590f5;
+	--okay-button-text: #fff;
+	--okay-basic-company: #163f4d;
+	--okay-second-company: #57738a;
+	--okay-basic-company-text: #fff;
+	--okay-second-company-text: #fff;
+	--okay-bg: #c6d1ca;
+	--okay-body-text: #222;
+	--okay-body-heading: #222;
+	--okay-boxed-color: #fff;
+	--okay-boxed-text: #222;
+	--okay-button-second-color: #222;
+	--okay-button-second-text: #fff;
+	--okay-shadow-color: 0 2px 5px rgba(0, 0, 0, .3);
+	--okay-border-color: #dbdbdb;
+}
